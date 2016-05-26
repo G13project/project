@@ -12,7 +12,6 @@ import javax.swing.JPanel;
 
 public class GamePanel extends JPanel {
 	
-
     private Image pmImage; // 小精靈圖片 (64*64 pixels)
     private int xCoordinate = 200; // 小精靈初始位置
     private int yCoordinate = 200;
